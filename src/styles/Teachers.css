@@ -1,0 +1,94 @@
+.teachers {
+  font-family: "Roboto", sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.teachers h1 {
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2.5em;
+}
+
+.error {
+  background-color: #e74c3c;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.add-teacher-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+  margin-bottom: 30px;
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.add-teacher-form input,
+.add-teacher-form select {
+  padding: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.add-teacher-form button {
+  padding: 10px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-size: 16px;
+}
+
+.add-teacher-form button:hover {
+  background-color: #27ae60;
+}
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.teacher-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.teacher-table th,
+.teacher-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  white-space: nowrap;
+}
+
+.teacher-table th {
+  background-color: #2ecc71;
+  color: white;
+}
+
+.teacher-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.teacher-table tr:hover {
+  background-color: #e8f8f5;
+}
+
+@media screen and (max-width: 768px) {
+  .add-teacher-form {
+    grid-template-columns: 1fr;
+  }
+}
