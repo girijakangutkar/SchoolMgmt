@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "../styles/Attendance.css";
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://schoolmanagent.onrender.com";
 
 export default function Attendance() {
   const [students, setStudents] = useState([]);
