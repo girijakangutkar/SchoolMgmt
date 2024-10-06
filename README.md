@@ -10,4 +10,4 @@
 
 ![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(173).png)
 
-![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/SchoolManagement.mp4)
+[![Watch the video](https://github.com/girijakangutkar/SchoolMgmt/blob/main/SchoolManagement.mp4)
