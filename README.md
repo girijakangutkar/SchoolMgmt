@@ -1,12 +1,13 @@
-![alt text](https://github.com/girijakangutkar/API-E-com-filters/blob/girija/20.06.2024_17.37.28_REC.png)
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(168).png)
 
-![alt text](https://github.com/girijakangutkar/API-E-com-filters/blob/girija/20.06.2024_17.37.28_REC.png)
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(169).png)
 
-![alt text](https://github.com/girijakangutkar/API-E-com-filters/blob/girija/20.06.2024_17.37.28_REC.png)
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(170).png)
 
-![alt text](https://github.com/girijakangutkar/API-E-com-filters/blob/girija/20.06.2024_17.37.28_REC.png)
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(171).png)
 
-![alt text](https://github.com/girijakangutkar/API-E-com-filters/blob/girija/20.06.2024_17.37.28_REC.png)
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(172).png)
 
-![alt text](https://github.com/girijakangutkar/API-E-com-filters/blob/girija/20.06.2024_17.37.28_REC.png)
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/Screenshot%20(173).png)
 
+![alt text](https://github.com/girijakangutkar/SchoolMgmt/blob/main/SchoolManagement.mp4)
